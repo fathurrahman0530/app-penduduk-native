@@ -84,38 +84,36 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <div class="feature-block d-lg-flex">
-                    <div class="feature-item mb-5 mb-lg-0">
-                        <div class="feature-icon mb-4">
+                <div class="feature-block d-flex">
+                    <div class="feature-item">
+                        <div class="feature-icon mb-5">
                             <i class="icofont-surgeon-alt"></i>
                         </div>
-                        <span>24 Hours Service</span>
-                        <h4 class="mb-3">Online Appoinment</h4>
-                        <p class="mb-4">Get ALl time support for emergency.We have introduced the principle of family medicine.</p>
-                        <a href="appoinment.html" class="btn btn-main btn-round-full">Make a appoinment</a>
+                        <span class="mb-4">Penduduk</span>
+                        <h4 class="pt-3">250 Orang</h4>
+                    </div>
+                    <div class="feature-item">
+                        <div class="feature-icon mb-5">
+                            <i class="icofont-surgeon-alt"></i>
+                        </div>
+                        <span class="mb-4">Penduduk</span>
+                        <h4 class="pt-3">250 Orang</h4>
+                    </div>
+                    <div class="feature-item">
+                        <div class="feature-icon mb-5">
+                            <i class="icofont-surgeon-alt"></i>
+                        </div>
+                        <span class="mb-4">Penduduk</span>
+                        <h4 class="pt-3">250 Orang</h4>
+                    </div>
+                    <div class="feature-item">
+                        <div class="feature-icon mb-5">
+                            <i class="icofont-surgeon-alt"></i>
+                        </div>
+                        <span class="mb-4">Penduduk</span>
+                        <h4 class="pt-3">250 Orang</h4>
                     </div>
 
-                    <div class="feature-item mb-5 mb-lg-0">
-                        <div class="feature-icon mb-4">
-                            <i class="icofont-ui-clock"></i>
-                        </div>
-                        <span>Timing schedule</span>
-                        <h4 class="mb-3">Working Hours</h4>
-                        <ul class="w-hours list-unstyled">
-                            <li class="d-flex justify-content-between">Sun - Wed : <span>8:00 - 17:00</span></li>
-                            <li class="d-flex justify-content-between">Thu - Fri : <span>9:00 - 17:00</span></li>
-                            <li class="d-flex justify-content-between">Sat - sun : <span>10:00 - 17:00</span></li>
-                        </ul>
-                    </div>
-
-                    <div class="feature-item mb-5 mb-lg-0">
-                        <div class="feature-icon mb-4">
-                            <i class="icofont-support"></i>
-                        </div>
-                        <span>Emegency Cases</span>
-                        <h4 class="mb-3">1-800-700-6200</h4>
-                        <p>Get ALl time support for emergency.We have introduced the principle of family medicine.Get Conneted with us for any urgency .</p>
-                    </div>
                 </div>
             </div>
         </div>
@@ -128,13 +126,13 @@
         <div class="row align-items-center">
             <div class="col-lg-4 col-sm-6">
                 <div class="about-img">
-                    <img src="images/about/img-1.jpg" alt="" class="img-fluid">
-                    <img src="images/about/img-2.jpg" alt="" class="img-fluid mt-4">
+                    <img src="public/frontend/images/about/img-1.jpg" alt="" class="img-fluid">
+                    <img src="public/frontend/images/about/img-2.jpg" alt="" class="img-fluid mt-4">
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6">
                 <div class="about-img mt-4 mt-lg-0">
-                    <img src="images/about/img-3.jpg" alt="" class="img-fluid">
+                    <img src="public/frontend/images/about/img-3.jpg" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-lg-4">
@@ -280,7 +278,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6 ">
                 <div class="appoinment-content">
-                    <img src="images/about/img-3.jpg" alt="" class="img-fluid">
+                    <img src="public/frontend/images/about/img-3.jpg" alt="" class="img-fluid">
                     <div class="emergency">
                         <h2 class="text-lg"><i class="icofont-phone-circle text-lg"></i>+23 345 67980</h2>
                     </div>
@@ -375,7 +373,7 @@
                     <i class="icofont-quote-right"></i>
 
                     <div class="testimonial-thumb">
-                        <img src="images/team/test-thumb1.jpg" alt="" class="img-fluid">
+                        <img src="public/frontend/images/team/test-thumb1.jpg" alt="" class="img-fluid">
                     </div>
 
                     <div class="client-info ">
@@ -389,7 +387,7 @@
 
                 <div class="testimonial-block style-2  gray-bg">
                     <div class="testimonial-thumb">
-                        <img src="images/team/test-thumb2.jpg" alt="" class="img-fluid">
+                        <img src="public/frontend/images/team/test-thumb2.jpg" alt="" class="img-fluid">
                     </div>
 
                     <div class="client-info">
@@ -405,7 +403,7 @@
 
                 <div class="testimonial-block style-2  gray-bg">
                     <div class="testimonial-thumb">
-                        <img src="images/team/test-thumb3.jpg" alt="" class="img-fluid">
+                        <img src="public/frontend/images/team/test-thumb3.jpg" alt="" class="img-fluid">
                     </div>
 
                     <div class="client-info">
@@ -421,7 +419,7 @@
 
                 <div class="testimonial-block style-2  gray-bg">
                     <div class="testimonial-thumb">
-                        <img src="images/team/test-thumb4.jpg" alt="" class="img-fluid">
+                        <img src="public/frontend/images/team/test-thumb4.jpg" alt="" class="img-fluid">
                     </div>
 
                     <div class="client-info">
@@ -436,7 +434,7 @@
 
                 <div class="testimonial-block style-2  gray-bg">
                     <div class="testimonial-thumb">
-                        <img src="images/team/test-thumb1.jpg" alt="" class="img-fluid">
+                        <img src="public/frontend/images/team/test-thumb1.jpg" alt="" class="img-fluid">
                     </div>
 
                     <div class="client-info">
@@ -469,52 +467,52 @@
         <div class="row clients-logo">
             <div class="col-lg-2">
                 <div class="client-thumb">
-                    <img src="images/about/1.png" alt="" class="img-fluid">
+                    <img src="public/frontend/images/about/1.png" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-lg-2">
                 <div class="client-thumb">
-                    <img src="images/about/2.png" alt="" class="img-fluid">
+                    <img src="public/frontend/images/about/2.png" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-lg-2">
                 <div class="client-thumb">
-                    <img src="images/about/3.png" alt="" class="img-fluid">
+                    <img src="public/frontend/images/about/3.png" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-lg-2">
                 <div class="client-thumb">
-                    <img src="images/about/4.png" alt="" class="img-fluid">
+                    <img src="public/frontend/images/about/4.png" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-lg-2">
                 <div class="client-thumb">
-                    <img src="images/about/5.png" alt="" class="img-fluid">
+                    <img src="public/frontend/images/about/5.png" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-lg-2">
                 <div class="client-thumb">
-                    <img src="images/about/6.png" alt="" class="img-fluid">
+                    <img src="public/frontend/images/about/6.png" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-lg-2">
                 <div class="client-thumb">
-                    <img src="images/about/3.png" alt="" class="img-fluid">
+                    <img src="public/frontend/images/about/3.png" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-lg-2">
                 <div class="client-thumb">
-                    <img src="images/about/4.png" alt="" class="img-fluid">
+                    <img src="public/frontend/images/about/4.png" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-lg-2">
                 <div class="client-thumb">
-                    <img src="images/about/5.png" alt="" class="img-fluid">
+                    <img src="public/frontend/images/about/5.png" alt="" class="img-fluid">
                 </div>
             </div>
             <div class="col-lg-2">
                 <div class="client-thumb">
-                    <img src="images/about/6.png" alt="" class="img-fluid">
+                    <img src="public/frontend/images/about/6.png" alt="" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -527,7 +525,7 @@
             <div class="col-lg-4 mr-auto col-sm-6">
                 <div class="widget mb-5 mb-lg-0">
                     <div class="logo mb-4">
-                        <img src="images/logo.png" alt="" class="img-fluid">
+                        <img src="public/frontend/images/logo.png" alt="" class="img-fluid">
                     </div>
                     <p>Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos obcaecati tenetur veritatis eveniet distinctio possimus.</p>
 
@@ -629,24 +627,24 @@ Essential Scripts
 
 
 <!-- Main jQuery -->
-<script src="plugins/jquery/jquery.js"></script>
+<script src="public/frontend/plugins/jquery/jquery.js"></script>
 <!-- Bootstrap 4.3.2 -->
-<script src="plugins/bootstrap/js/popper.js"></script>
-<script src="plugins/bootstrap/js/bootstrap.min.js"></script>
-<script src="plugins/counterup/jquery.easing.js"></script>
+<script src="public/frontend/plugins/bootstrap/js/popper.js"></script>
+<script src="public/frontend/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="public/frontend/plugins/counterup/jquery.easing.js"></script>
 <!-- Slick Slider -->
-<script src="plugins/slick-carousel/slick/slick.min.js"></script>
+<script src="public/frontend/plugins/slick-carousel/slick/slick.min.js"></script>
 <!-- Counterup -->
-<script src="plugins/counterup/jquery.waypoints.min.js"></script>
+<script src="public/frontend/plugins/counterup/jquery.waypoints.min.js"></script>
 
-<script src="plugins/shuffle/shuffle.min.js"></script>
-<script src="plugins/counterup/jquery.counterup.min.js"></script>
+<script src="public/frontend/plugins/shuffle/shuffle.min.js"></script>
+<script src="public/frontend/plugins/counterup/jquery.counterup.min.js"></script>
 <!-- Google Map -->
-<script src="plugins/google-map/map.js"></script>
+<script src="public/frontend/plugins/google-map/map.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkeLMlsiwzp6b3Gnaxd86lvakimwGA6UA&callback=initMap"></script>
 
-<script src="js/script.js"></script>
-<script src="js/contact.js"></script>
+<script src="public/frontend/js/script.js"></script>
+<script src="public/frontend/js/contact.js"></script>
 
 </body>
 </html>
