@@ -110,6 +110,7 @@ if (isset($_GET['delete'])) {
 if (isset($_GET['logout'])) {
   
   session_start();
+  $_SESSION["login"] = false;
   $_SESSION = [];
   session_unset();
   session_destroy();

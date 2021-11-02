@@ -10,8 +10,8 @@
 
   }
 
-  include "views/template/header.php";
-  include "views/template/sidebar.php";
+  include "views/template/backend/header.php";
+  include "views/template/backend/sidebar.php";
 ?>
         <div id="main">
             <header class="mb-3">
@@ -25,12 +25,12 @@
             </div>
 <?php
   include "app/controller/Contents.php";
-  include "views/template/footer.php";
+  include "views/template/backend/footer.php";
 ?>
             </div>
         </div>
 <?php 
 
-  include "views/template/javascript.php";
+  include "views/template/backend/javascript.php";
 
 ?>
