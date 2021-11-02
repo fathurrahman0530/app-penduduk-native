@@ -1,6 +1,14 @@
 <!-- Slider Start -->
-<section class="banner background-banner">
-
+<section class="banner">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-12 col-xl-7">
+                <div class="block">
+                    <h1 class="mb-3 mt-3">Kelurahan PAI, Kecamatan Biringkanaya, Makassar, Sulawesi Selatan</h1>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
 <section class="features mt-auto">
     <div class="container">
